@@ -1,2 +1,1 @@
-modra farba
 moj oblubeny jazyk je c++
