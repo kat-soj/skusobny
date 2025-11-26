@@ -1,1 +1,6 @@
-dnes snežilo2
+<<<<<<< HEAD
+moj oblubená farba je čierna
+=======
+Git 26.11.2025
+
+>>>>>>> origin/main
