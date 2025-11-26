@@ -1,1 +1,5 @@
-skoda ze nesnezi ale aspon je člapkanica , juchu
+<<<<<<< HEAD
+moj oblubeny jazyk je JavaScript
+=======
+wta 22 je pomaly ukončená
+>>>>>>> origin/main
